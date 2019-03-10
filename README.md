@@ -1,5 +1,6 @@
 # Proverif-pi-vim
-Proverif Pi calculus vim syntax highlighting. Use file extension `.prov`.
+[Proverif](http://prosecco.gforge.inria.fr/personal/bblanche/proverif/) Pi calculus vim syntax highlighting. Use file extension `.prov`.
+It might not be complete, since I have not used the program that much and only included the things that I have used so far.
 
 ## Installation
 ### Using vim-plug
